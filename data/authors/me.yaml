@@ -69,7 +69,7 @@ experience:
 skills:
   - name: Technical Skills
     items:
-      - label: iOS Development (Swift and SwiftUI)
+      - label: iOS Development (Swift)
         level: 5
       - label: C# Development (Unity)
         level: 5
