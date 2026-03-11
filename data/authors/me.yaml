@@ -69,14 +69,12 @@ skills:
       - label: C# Development (Unity)
         level: 5
       - label: Java
-        level: 1
+        level: 2
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
       - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
         level: 4
 
 languages:
