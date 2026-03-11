@@ -54,7 +54,13 @@ experience:
     org: OneBank
     start: 2025-01-01
     summary: |
-      Building iOS components ranging from UI/UX to optimisations.
+      - Contributed to the development of Egypt’s first online-exclusive bank, focusing on delivering secure and scalable mobile banking solutions.
+      - Engineered reusable UI components using SwiftUI and MVVM architecture, ensuring maintainability and efficiency across distributed teams.
+      - Collaborated with cross-functional teams to align technical development with business outcomes, improving customer experience and performance.
+      - Leveraged Git and Jira for agile collaboration and CI/CD integration, promoting high-quality code delivery and transparent project tracking.
+      - Participated in architectural discussions around integrating machine learning and analytics features for customer insight and engagement tracking.
+      - Ensured cost-effective, low-power design and optimized memory management for resource-constrained devices.
+      - Contributed across multiple sprints, maintaining strong communication with cross-functional team members and providing clear status updates to management.
     button:
       text: View portfolio
       url: /
