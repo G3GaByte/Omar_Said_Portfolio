@@ -1,5 +1,5 @@
 ---
-title: WhatsApp UI Mockup, SwiftUI Layout & Component Design
+title: WhatsApp UI Mockup - SwiftUI Layout & Component Design
 date: 2023-01-15
 tags:
   - Swift

@@ -1,5 +1,5 @@
 ---
-title: Health Tracker — CoreData, Notifications & SwiftUI Lists
+title: Health Tracker - CoreData, Notifications & SwiftUI Lists
 date: 2023-03-01
 tags:
   - Swift
