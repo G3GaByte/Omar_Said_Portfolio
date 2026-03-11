@@ -23,6 +23,6 @@ Cloning a production-grade UI is one of the most effective ways to sharpen Swift
 ## Gallery
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-  <img src="/media/WhatsAppMockup/FirstImage.png" alt="WhatsAppMockup 1" class="rounded-lg shadow-md">
-  <img src="/media/WhatsAppMockup/SecondImage.png" alt="WhatsAppMockup 2" class="rounded-lg shadow-md">
+  <img src="/Omar_Said_Portfolio/media/WhatsAppMockup/FirstImage.png" alt="WhatsAppMockup 1" class="rounded-lg shadow-md">
+  <img src="/Omar_Said_Portfolio/media/WhatsAppMockup/SecondImage.png" alt="WhatsAppMockup 2" class="rounded-lg shadow-md">
 </div>

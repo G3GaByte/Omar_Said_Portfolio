@@ -1,5 +1,5 @@
 ---
-title: Pet Breed Explorer, Swift Combine & REST API
+title: Pet Breed Explorer - Swift Combine & REST API
 date: 2025-12-26
 tags:
   - Swift

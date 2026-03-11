@@ -24,8 +24,8 @@ Persistent storage and notifications are two core skills in iOS development almo
 ## Gallery
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-  <img src="/media/HealthCompanion/HomePage.png" alt="HealthCompanion 1" class="rounded-lg shadow-md">
-  <img src="/media/HealthCompanion/AddPage.png" alt="HealthCompanion 2" class="rounded-lg shadow-md">
-  <img src="/media/HealthCompanion/Intro.png" alt="HealthCompanion 3" class="rounded-lg shadow-md">
-  <img src="/media/HealthCompanion/NotesPage.png" alt="HealthCompanion 4" class="rounded-lg shadow-md">
+  <img src="/Omar_Said_Portfolio/media/HealthCompanion/HomePage.png" alt="HealthCompanion 1" class="rounded-lg shadow-md">
+  <img src="/Omar_Said_Portfolio/media/HealthCompanion/AddPage.png" alt="HealthCompanion 2" class="rounded-lg shadow-md">
+  <img src="/Omar_Said_Portfolio/media/HealthCompanion/Intro.png" alt="HealthCompanion 3" class="rounded-lg shadow-md">
+  <img src="/Omar_Said_Portfolio/media/HealthCompanion/NotesPage.png" alt="HealthCompanion 4" class="rounded-lg shadow-md">
 </div>
