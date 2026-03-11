@@ -1,6 +1,6 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Pet Breed Explorer, Swift Combine & REST API
+date: 2025-12-26
 tags:
   - Swift
   - SwiftUI
