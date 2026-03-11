@@ -20,7 +20,7 @@ This project bridges the gap between basic URLSession networking and production-
 ## Gallery
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-  <img src="/Combine/DogsList.png" alt="Combine 1" class="rounded-lg shadow-md">
-  <img src="/Combine/CombineWork.png" alt="Combine 2" class="rounded-lg shadow-md">
-  <img src="/Combine/API.png" alt="Combine 3" class="rounded-lg shadow-md">
+  <img src="/media/Combine/DogsList.png" alt="Combine 1" class="rounded-lg shadow-md">
+  <img src="/media/Combine/CombineWork.png" alt="Combine 2" class="rounded-lg shadow-md">
+  <img src="/media/Combine/API.png" alt="Combine 3" class="rounded-lg shadow-md">
 </div>
