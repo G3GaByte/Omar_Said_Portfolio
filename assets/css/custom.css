@@ -1,0 +1,5 @@
+/* Hide author card at bottom of articles (projects, posts, etc.) */
+.max-w-prose > .flex.pt-12.pb-4 {
+  display: none;
+}
+
