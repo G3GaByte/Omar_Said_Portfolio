@@ -97,7 +97,7 @@ hugoblox:
     cta:
       enable: false
       text: ""
-      url: ""
+      url: "https://g3gabyte.github.io/Omar_Said_Portfolio/"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
@@ -232,7 +232,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   repository:
     enable: false
-    url: ""                             # e.g., https://github.com/username/repo
+    url: "https://g3gabyte.github.io/Omar_Said_Portfolio/"                             # e.g., https://github.com/username/repo
     branch: main
     content_dir: content
 
