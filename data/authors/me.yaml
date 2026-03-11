@@ -40,19 +40,19 @@ interests:
 education:
   - degree: BSc Immersive Systems Design (Games and VR)
     institution: The University of Glasgow
-    start: 01-09-2020
-    end: 30-06-2024
+    start: 2020-09-01
+    end: 2024-06-30
     summary: |
-      Awarded First Class Honours for my undergraduate dissertation, which explored the role of sensory feedback in enhancing immersion in video games. The research involved designing and implementing a custom haptic feedback system for a VR game, demonstrating significant improvements in player immersion and engagement.
+      I have been awarded a First-Class Honours degree. My Dissertation explored the impact of sensory feedback for immersion in video games. I created a custom haptic controller that showed significant improvements in player immersion and engagement, demonstrating the potential of haptic feedback to enhance gaming experiences. 
   - degree: HND Computer Arts and Culture
     institution: City of Glasgow College
-    start: 01-09-2018
-    end: 30-06-2020
+    start: 2018-09-01
+    end: 2020-06-30
 
 experience:
   - role: iOS Software Engineer
     org: OneBank
-    start: 01-01-2025
+    start: 2025-01-01
     summary: |
       - Contributed to the development of Egypt’s first online-exclusive bank, focusing on delivering secure and scalable mobile banking solutions.
       - Engineered reusable UI components using SwiftUI and MVVM architecture, ensuring maintainability and efficiency across distributed teams.
@@ -63,8 +63,8 @@ experience:
       - Contributed across multiple sprints, maintaining strong communication with cross-functional team members and providing clear status updates to management.
   - role: Lead Representative at the Glasgow School of Art
     org: Glasgow School of Art
-    start: 01-06-2022
-    end: 31-05-2023
+    start: 2022-06-01
+    end: 2023-05-31
     summary: |
       Represented the Glasgow School of Art in internal and external panels. Advocating for innovation in immersive technologies.
 
