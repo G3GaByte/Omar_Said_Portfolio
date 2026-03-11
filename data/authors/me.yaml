@@ -9,9 +9,13 @@ status:
   icon: "🎸"
 role: iOS Software Engineer
 bio: |
+  <div style="text-align: justify;">
+
   I began programming through my passion for video games. Early on, I experimented with game mechanics, scripting gameplay systems, and learning how code could bring interactive ideas to life. This experience taught me the fundamentals of problem-solving, performance considerations, and user interaction.
   
   Over time, my interests expanded beyond games and toward building tools people could use in everyday life. That curiosity led me to iOS development, where I began applying my programming background to create mobile applications. While the domain shifted from games to apps, the core motivation remained the same: designing intuitive experiences and translating ideas into functional, polished software.
+
+  </div>
 
 affiliations:
   - name: OneBank
