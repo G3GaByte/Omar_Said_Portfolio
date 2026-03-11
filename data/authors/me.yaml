@@ -48,6 +48,8 @@ education:
     institution: City of Glasgow College
     start: 2018-09-01
     end: 2020-06-30
+    summary: |
+      Achieved the highest grade for my HND
 
 experience:
   - role: iOS Software Engineer
@@ -97,7 +99,7 @@ languages:
     
 
 awards:
-  - title: Best Game in the Game Jam in 2023
+  - title: Best Game in the INDCOR Game Jam of 2023
     url: "https://g3gabyte.itch.io/klean-initiative"
     awarder: INDCOR
     date: "2023-06-01"
