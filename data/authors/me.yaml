@@ -61,10 +61,6 @@ experience:
       - Participated in architectural discussions around integrating machine learning and analytics features for customer insight and engagement tracking.
       - Ensured cost-effective, low-power design and optimized memory management for resource-constrained devices.
       - Contributed across multiple sprints, maintaining strong communication with cross-functional team members and providing clear status updates to management.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
   - role: Lead Representative at the Glasgow School of Art
     org: Glasgow School of Art
     start: 2022-06-01
